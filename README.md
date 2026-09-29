@@ -6,17 +6,22 @@
 
 <br/>
 
-<div align="center">
+---
+
 ## 👨‍💻 About Me
 
 - 🎓 Math and Data Science Student
-- 💻 Interested in Software Engineering & AI & Cybersecurity
-- 🤖 Exploring AI Agents 
-- 🔐 Interested in Cybersecurity & Systems
-- 🐍 Building projects with Python, APIs & Databases ,C 
+- 💻 Interested in Software Engineering, AI & Cybersecurity
+- 🤖 Exploring AI Agents
+- 🐍 Building projects with Python, APIs, Databases & C
+- 🐧 Kali Linux
 - 🚀 Always learning and building
-- 🐧 Kali linux
+
+---
+
 ## 💻 Tech Stack
+
+<div align="center">
 
 **Languages**
 
@@ -49,7 +54,7 @@
 </div>
 
 ---
-
+	
 ## 🚀 Featured Projects
 
 <table>
@@ -105,12 +110,11 @@ Application de gestion de bibliothèque (CRUD) en Flask + HTMX.
 
 ## 📊 GitHub Analytics
 
+<!-- Si l'erreur 402 persiste, remplace github-readme-stats.vercel.app par le domaine de ta propre instance Vercel -->
 <img src="https://github-readme-stats.vercel.app/api?username=lahrour88&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="Stats GitHub" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahrour88&theme=dark&hide_border=true&layout=compact" height="165" alt="Langages les plus utilisés" />
 
 <img src="https://streak-stats.demolab.com/?user=lahrour88&theme=dark&hide_border=true" alt="Streak GitHub" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lahrour88&theme=react-dark&hide_border=true" width="100%" alt="Graphique d'activité" />
 
 </div>
 
@@ -135,3 +139,4 @@ Applications web **Flask + Supabase**, avec intégration de l'**IA** (chatbot / 
 <a href="https://www.facebook.com/profile.php?id=100095541010734"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 
 </div>
+
