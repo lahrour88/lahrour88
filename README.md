@@ -1,10 +1,6 @@
 <div align="center">
 
-<h1>✦ ━━━━ 𝓛𝓪𝓱𝓻𝓸𝓾𝓻 𝓐𝓫𝓭𝓮𝓵𝓪𝓭𝓲𝓶𝓮 ━━━━ ✦</h1>
-
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Lahrour+Abdeladime;Python+%E2%80%A2+Flask+%E2%80%A2+Applications+Web;Backend%2C+bases+de+donn%C3%A9es+%26+PWA" alt="Typing SVG" />
-
-<sub>❖ ─────────── ✧ ─────────── ❖</sub>
 
 </div>
 
@@ -45,23 +41,56 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table align="center">
+<tr>
+<td width="50%" align="center" valign="top">
 
-<a href="https://github.com/lahrour88/abou-talib"><img src="https://img.shields.io/badge/🏫_abou--talib-Flask_•_Supabase_•_IA-58A6FF?style=for-the-badge" /></a>
-<a href="https://github.com/lahrour88/project-vage"><img src="https://img.shields.io/badge/🚗_project--vage-WashMobile_•_PWA-3ECF8E?style=for-the-badge" /></a>
-<a href="https://github.com/lahrour88/database_managment"><img src="https://img.shields.io/badge/🗄️_database__managment-Python_•_SQL_•_CLI-F05032?style=for-the-badge" /></a>
-<a href="https://github.com/lahrour88/book_library"><img src="https://img.shields.io/badge/📚_book__library-Flask_•_HTMX-7952B3?style=for-the-badge" /></a>
+### 🏫 [abou-talib](https://github.com/lahrour88/abou-talib)
 
-<br/>
+Portail scolaire : notes, comptes, assistant IA.
 
-<sub>🏫 Portail scolaire avec assistant IA &nbsp;•&nbsp; 🚗 Réservation de lavage auto &nbsp;•&nbsp; 🗄️ Outil CLI pour bases SQL &nbsp;•&nbsp; 📚 Gestion de bibliothèque</sub>
+`Flask` `Supabase` `IA` `PWA`
 
-<br/><br/>
+[🔗 Démo](https://abou-talib.vercel.app)
 
-<a href="https://abou-talib.vercel.app"><img src="https://img.shields.io/badge/Démo-abou--talib-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://flask-lib-htmx.vercel.app"><img src="https://img.shields.io/badge/Démo-book__library-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</td>
+<td width="50%" align="center" valign="top">
 
-</div>
+### 🚗 [project-vage](https://github.com/lahrour88/project-vage)
+
+WashMobile : réservation de lavage auto.
+
+`Flask` `Supabase` `PWA`
+
+&nbsp;
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+### 🗄️ [database_managment](https://github.com/lahrour88/database_managment)
+
+Outil CLI pour gérer des bases SQL.
+
+`Python` `SQL` `CLI`
+
+&nbsp;
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### 📚 [book_library](https://github.com/lahrour88/book_library)
+
+Gestion de bibliothèque (CRUD).
+
+`Flask` `HTMX`
+
+[🔗 Démo](https://flask-lib-htmx.vercel.app)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -71,9 +100,7 @@
 
 <img src="https://streak-stats.demolab.com/?user=lahrour88&theme=dark&hide_border=true" alt="Streak GitHub" />
 
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/58a6ff/lahrour88" alt="Contributions" width="900" />
+<img src="https://ghchart.rshah.org/58a6ff/lahrour88" alt="Contributions" width="100%" />
 
 </div>
 
