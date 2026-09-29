@@ -4,18 +4,13 @@
 
 </div>
 
-<br/>
-
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Math and Data Science Student
-- 💻 Interested in Software Engineering, AI & Cybersecurity
-- 🤖 Exploring AI Agents
-- 🐍 Building projects with Python, APIs, Databases & C
-- 🐧 Kali Linux
-- 🚀 Always learning and building
+- 🎓 Math & Data Science student
+- 💻 Software Engineering, AI agents & Cybersecurity
+- 🐍 Python, APIs, Databases, C — 🐧 Kali Linux
 
 ---
 
@@ -23,29 +18,18 @@
 
 <div align="center">
 
-**Languages**
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-**Backend & Web**
-
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/HTMX-3D72D7?style=for-the-badge&logo=htmx&logoColor=white" />
 <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
-
-**Bases de données**
-
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-
-**Outils**
-
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -54,51 +38,55 @@
 </div>
 
 ---
-	
+
 ## 🚀 Featured Projects
 
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-**🏫 <a href="https://github.com/lahrour88/abou-talib">abou-talib</a>**
+### 🏫 [abou-talib](https://github.com/lahrour88/abou-talib)
 
-Portail scolaire complet : notes, publications, comptes élèves/profs/admin et assistant IA intégré. PWA installable, back-end Flask + Supabase.
+Portail scolaire : notes, comptes, assistant IA.
 
-`Python` `Flask` `Supabase` `IA` `PWA`
+`Flask` `Supabase` `IA` `PWA`
 
-🔗 [Démo](https://abou-talib.vercel.app)
+[🔗 Démo](https://abou-talib.vercel.app)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-**🚗 <a href="https://github.com/lahrour88/project-vage">project-vage</a>**
+### 🚗 [project-vage](https://github.com/lahrour88/project-vage)
 
-WashMobile — PWA de réservation pour un service de lavage automobile (mobile ou en atelier), avec tableau de suivi des commandes.
+WashMobile : réservation de lavage auto.
 
-`Python` `Flask` `Supabase` `PWA`
+`Flask` `Supabase` `PWA`
+
+&nbsp;
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-**🗄️ <a href="https://github.com/lahrour88/database_managment">database_managment</a>**
+### 🗄️ [database_managment](https://github.com/lahrour88/database_managment)
 
-Outil CLI Python pour la gestion de bases de données SQL : schéma, requêtes avancées, interface interactive en ligne de commande.
+Outil CLI pour gérer des bases SQL.
 
 `Python` `SQL` `CLI`
 
+&nbsp;
+
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-**📚 <a href="https://github.com/lahrour88/book_library">book_library</a>**
+### 📚 [book_library](https://github.com/lahrour88/book_library)
 
-Application de gestion de bibliothèque (CRUD) en Flask + HTMX.
+Gestion de bibliothèque (CRUD).
 
-`Python` `Flask` `HTMX`
+`Flask` `HTMX`
 
-🔗 [Démo](https://flask-lib-htmx.vercel.app)
+[🔗 Démo](https://flask-lib-htmx.vercel.app)
 
 </td>
 </tr>
@@ -110,11 +98,9 @@ Application de gestion de bibliothèque (CRUD) en Flask + HTMX.
 
 ## 📊 GitHub Analytics
 
-<!-- Si l'erreur 402 persiste, remplace github-readme-stats.vercel.app par le domaine de ta propre instance Vercel -->
-<img src="https://github-readme-stats.vercel.app/api?username=lahrour88&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="Stats GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahrour88&theme=dark&hide_border=true&layout=compact" height="165" alt="Langages les plus utilisés" />
-
 <img src="https://streak-stats.demolab.com/?user=lahrour88&theme=dark&hide_border=true" alt="Streak GitHub" />
+
+<img src="https://ghchart.rshah.org/58a6ff/lahrour88" alt="Contributions" width="100%" />
 
 </div>
 
@@ -124,13 +110,7 @@ Application de gestion de bibliothèque (CRUD) en Flask + HTMX.
 
 ## 🎯 Focus actuel
 
-Applications web **Flask + Supabase**, avec intégration de l'**IA** (chatbot / assistant) et packaging en **PWA**.
-
-</div>
-
----
-
-<div align="center">
+Applications web **Flask + Supabase**, intégration de l'**IA** et packaging en **PWA**.
 
 ## 📫 Contact
 
