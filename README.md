@@ -1,122 +1,141 @@
-<div align="center">
+<div align="center">╔══════════════════════════════════════╗
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Lahrour+Abdeladime;Python+%E2%80%A2+Flask+%E2%80%A2+Applications+Web;Backend%2C+bases+de+donn%C3%A9es+%26+PWA" alt="Typing SVG" />
+          👨‍💻 LAHROUR88
 
-</div>
+╚══════════════════════════════════════╝
 
----
+🎓 Computer Science Student • 💻 Software Engineering • 🤖 AI
 
-## 👨‍💻 About Me
+Building software, exploring AI agents, and learning cybersecurity.
 
-- 🎓 Math & Data Science student
-- 💻 Software Engineering, AI agents & Cybersecurity
-- 🐍 Python, APIs, Databases, C — 🐧 Kali Linux
+<br>""GitHub" (https://img.shields.io/badge/GitHub-lahrour88-181717?style=for-the-badge&logo=github)" (https://github.com/lahrour88)
+""Email" (https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:abdelaadime@zohomail.com)
 
----
+</div>---
 
-## 💻 Tech Stack
+👨‍💻 About Me
 
-<div align="center">
+🎓 Math & Data Science Student with a strong interest in computer science and software development.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/HTMX-3D72D7?style=for-the-badge&logo=htmx&logoColor=white" />
-<img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+💻 Currently focusing on:
 
-</div>
+- 🧩 Software Engineering & Web Development
+- 🤖 Artificial Intelligence & AI Agents
+- 🔐 Cybersecurity
+- 🗄️ Databases & APIs
+- 🐍 Python Development
+- 🐧 Linux & Open Source
+
+I enjoy building practical projects, experimenting with new technologies, and turning ideas into working software.
 
 ---
 
-## 🚀 Featured Projects
+🛠️ Tech Stack
 
-<table align="center">
+💻 Languages
+
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"C" (https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+"SQL" (https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+🌐 Web & Backend
+
+"Flask" (https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+"Supabase" (https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+"HTMX" (https://img.shields.io/badge/HTMX-3366CC?style=for-the-badge&logo=htmx&logoColor=white)
+"PWA" (https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+
+🤖 AI & Development
+
+"AI" (https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge)
+"APIs" (https://img.shields.io/badge/APIs-FF6F00?style=for-the-badge)
+"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+🐧 Environment
+
+"Linux" (https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+"Kali Linux" (https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+---
+
+🚀 Featured Projects
+
+<table>
 <tr>
-<td width="50%" align="center" valign="top">
+<td>🏫 "Abou Talib" (https://github.com/lahrour88/abou-talib)
 
-### 🏫 [abou-talib](https://github.com/lahrour88/abou-talib)
+Portail scolaire intelligent pour la gestion des notes, comptes et fonctionnalités d'assistance par IA.
 
-Portail scolaire : notes, comptes, assistant IA.
+Stack: "Flask" "Supabase" "AI" "PWA"
 
-`Flask` `Supabase` `IA` `PWA`
-
-[🔗 Démo](https://abou-talib.vercel.app)
+🔗 "Live Demo" (https://abou-talib.vercel.app/)
 
 </td>
-<td width="50%" align="center" valign="top">
+</tr><tr>
+<td>🚗 "WashMobile" (https://github.com/lahrour88/project-vage)
 
-### 🚗 [project-vage](https://github.com/lahrour88/project-vage)
+Application de réservation de lavage automobile avec une architecture web orientée services.
 
-WashMobile : réservation de lavage auto.
+Stack: "Flask" "Supabase" "PWA"
 
-`Flask` `Supabase` `PWA`
+</td>
+</tr><tr>
+<td>🗄️ "Database Management" (https://github.com/lahrour88/database_managment)
 
-&nbsp;
+Outil CLI pour gérer et manipuler des bases de données SQL.
+
+Stack: "Python" "SQL" "CLI"
+
+</td>
+</tr><tr>
+<td>📚 "Book Library" (https://github.com/lahrour88/book_library)
+
+Application web de gestion de bibliothèque avec opérations CRUD.
+
+Stack: "Flask" "HTMX"
+
+🔗 "Live Demo" (https://flask-lib-htmx.vercel.app/)
 
 </td>
 </tr>
-<tr>
-<td width="50%" align="center" valign="top">
+</table>---
 
-### 🗄️ [database_managment](https://github.com/lahrour88/database_managment)
+📊 GitHub Analytics
 
-Outil CLI pour gérer des bases SQL.
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lahrour88&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahrour88&layout=compact&theme=tokyonight&hide_border=true" height="180"/></div>---
 
-`Python` `SQL` `CLI`
+🏆 GitHub Trophies
 
-&nbsp;
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=lahrour88&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" /></div>---
 
-</td>
-<td width="50%" align="center" valign="top">
+🔥 Current Focus
 
-### 📚 [book_library](https://github.com/lahrour88/book_library)
+Software Engineering
+        │
+        ├── 🐍 Python & Backend Development
+        ├── 🌐 Web Applications
+        ├── 🤖 AI & AI Agents
+        ├── 🗄️ Databases & APIs
+        └── 🔐 Cybersecurity
 
-Gestion de bibliothèque (CRUD).
-
-`Flask` `HTMX`
-
-[🔗 Démo](https://flask-lib-htmx.vercel.app)
-
-</td>
-</tr>
-</table>
+«🚀 Learning by building, experimenting, and solving real problems.»
 
 ---
 
-<div align="center">
+📈 Contribution Activity
 
-## 📊 GitHub Analytics
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=lahrour88&theme=tokyo-night&hide_border=true" width="100%"/></div>---
 
-<img src="https://streak-stats.demolab.com/?user=lahrour88&theme=dark&hide_border=true" alt="Streak GitHub" />
+🤝 Connect With Me
 
-<img src="https://ghchart.rshah.org/58a6ff/lahrour88" alt="Contributions" width="100%" />
+<div align="center">📧 abdelaadime@zohomail.com
 
-</div>
+<br>""GitHub" (https://img.shields.io/badge/GitHub-lahrour88-181717?style=for-the-badge&logo=github)" (https://github.com/lahrour88)
 
----
+</div>---
 
-<div align="center">
+<div align="center">⚡ Code • Learn • Build • Repeat
 
-## 🎯 Focus actuel
-
-Applications web **Flask + Supabase**, intégration de l'**IA** et packaging en **PWA**.
-
-## 📫 Contact
-
-<a href="mailto:abdelaadime@zohomail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://instagram.com/lahrour_1902"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.facebook.com/profile.php?id=100095541010734"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-
-</div>
-
+<img src="https://komarev.com/ghpvc/?username=lahrour88&style=for-the-badge&color=blueviolet" alt="Profile Views"/></div>
