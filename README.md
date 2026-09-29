@@ -7,7 +7,15 @@
 <br/>
 
 <div align="center">
+## 👨‍💻 About Me
 
+- 🎓 Math and Data Science Student
+- 💻 Interested in Software Engineering & AI & Cybersecurity
+- 🤖 Exploring AI Agents 
+- 🔐 Interested in Cybersecurity & Systems
+- 🐍 Building projects with Python, APIs & Databases ,C 
+- 🚀 Always learning and building
+- 🐧 Kali linux
 ## 💻 Tech Stack
 
 **Languages**
